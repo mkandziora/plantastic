@@ -13,24 +13,48 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Plantastic
+email: martha.kandziora@yah...com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Plantastic is a site about plant research in general and science I find particularly interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  blubbundbla
+
+owner:
+  name:  Martha Kandziora
+  
+  email:  martha.kandziora@yah...com
 
 # Build settings
 markdown: kramdown
-remote_theme: brianmaierjr/long-haul
+
+navigation:
+  - title: Home
+    url: /index
+  - title: Research Interests
+    url: /research_interest    
+  - title: Projects
+    url: /research
+  - title: Publications
+    url: /publications  
+  - title: Plantmap
+    url: https://blubbundbla.github.io/plantmap/
+#  - title: Blog
+#    url: /blog
+  - title: CV
+    url: /cv
+  - title: About
+    url: /about    
+#  - title: Github
+#    url: https://github.com/blubbundbla         
+
+#remote_theme: brianmaierjr/long-haul
 #plugins:
 #  - jekyll-feed
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

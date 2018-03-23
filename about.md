@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Martha Kandziora and currently a postdoctoral researcher at UC Merced developing tools used for phylogenetic inferences.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Please feel free to contact me at martha.kandziora@yah..com.
 
+If you want to find out more about me, have a look at my [ORCID ID](https://orcid.org/0000-0002-1197-6207), my [researchgate profile](https://www.researchgate.net/profile/Martha_Kandziora), or at [google scholar](https://scholar.google.com/citations?user=WQFUrbwAAAAJ&hl=en).
 
-[jekyll-organization]: https://github.com/jekyll
+Some of my projects can be found at [GitHub](https://github.com/blubbundbla).
