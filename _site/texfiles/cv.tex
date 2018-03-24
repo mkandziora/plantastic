@@ -1,0 +1,177 @@
+
+\documentclass[11pt,letterpaper,sans]{moderncv}   % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                        % style options are 'casual' (default) and 'classic' 
+\moderncvcolor{black}                          % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+% character encoding
+\usepackage[utf8]{inputenc}
+
+% adjust the page margins
+\usepackage[scale=0.8, left=25mm, right=25mm, top=28mm, bottom=28mm]{geometry}
+\setlength{\hintscolumnwidth}{3.5cm}           % if you want to change the width of the column with the dates
+
+
+\usepackage[ngerman]{babel}
+\usepackage[official]{eurosym}
+
+
+\usepackage{lastpage}
+\rfoot{\addressfont\itshape\textcolor{gray}{Page \thepage\ of \pageref{LastPage}}}
+
+
+%\usepackage{apalike}
+
+% bibliography with mutiple entries
+\usepackage{multibib}
+\newcites{publications,talks}{{peer-review manuscripts},{conferences}}
+%\usepackage{natbib}
+\usepackage{bibentry}
+\nobibliography*
+
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+% personal data
+\firstname{Martha}
+\familyname{Kandziora}
+\address{Postdoctoral Researcher in the McTavish Lab \\ Department of Life and Environmental Science \\ School of Natural Sciences \\
+University of California, Merced \\}{}    % optional, remove the line if not wanted
+%\phone{+1 209 201 86 31}                      % optional, remove the line if not wanted
+\email{martha.kandziora@mailbox.org}                          % optional, remove the line if not wanted
+%\homepage{www.vikp.de}                    % optional, remove the line if not wanted
+%\photo[64pt][0.4pt]{picture.jpg}                  % '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file; optional, remove the line if not wanted
+
+\quote{"Evolutionary botanist, who combines phylogenetic data with ecological information to understand how biodiversity is generated and maintained across space and time."}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+\vspace*{-0.7cm}
+%\section{Personal Details}
+%\cvitem{date of birth}{02/18/1986}
+%\cvitem{nationality}{Germany}
+%\cvitem{Familienstand}{Ledig}
+
+%\section{Personal Profile}
+
+\section{Work and Research Experience}
+%\subsection{current employment}
+\cventry{since 10/2017}{Postdoctoral Fellow}{Life and Environmental Science, University of California}{Merced}{}{Developing a tool to automatically and rapidly update phylogenies, linking species and geographic information that can be easily used for biogeographic analyses}
+
+%\subsection{past experience and employment}
+\cventry{04/2016 -- 07/2016}{Research Volunteer}{}{Mainz/Germany}{}{Conducting analyzes for a new research project, developing my computational skills and writing of research proposal}
+\cventry{11/2015 -- 03/2016}{Finishing of doctoral research related work}{}{Mainz/Germany}{}{Preparation and submission of publications, labeling of herbarium material}
+\cventry{02/2013 -- 10/2015}{Research assistant}{Institute of 'Spezielle Botanik und Botanischer Garten', Johannes Gutenberg-Universität}{Mainz/Germany}{}{Doctoral student in the DFG-project of Dr. B. Gehrke 'Origins of the African high mountain flora: the role of past climates on establishment and diversification.'}
+\cventry{05/2009 -- 08/2009}{Student assistant}{Julius Kühn-Institut}{Darmstadt/Germany}{}{Plant pathogen research on barley, supervised by Dr. Andreas Leclerque}
+\cventry{07/2008 -- 11/2008}{Student assistant}{Institute of Ecology, Technische Universität Darmstadt}{Darmstadt/Germany}{}{Food-network experiments, supervised by Gregor Kalinkat}
+
+%\newpage
+\section{Education}
+\cventry{02/2013 -- 12/2015}{Dr. rer. nat (biology)}{Institute of 'Spezielle Botanik und Botanischer Garten’, Johannes Gutenberg-Universität}{Mainz/Germany}{\textit{'magna cum laude'}}{Dissertation: Evolution and historical biogeography of \emph{Senecio} (Asteraceae) with focus on the Old World}  
+\cventry{10/2009 -- 11/2012}{Diplom Biology}{Johannes Gutenberg-Universität}{Mainz/Germany}{\textit{'very good'}}{Dissertation: Evolution of dwarf shrubs in \emph{Alchemilla} (Rosaceae) of sub-Saharan Africa}  
+\cventry{10/2006 -- 10/2009}{Preliminary-Diplom Biology}{Technische Universität Darmstadt}{Darmstadt/Germany}{\textit{'good'}}{}
+\cventry{1996 -- 2005}{Abitur}{Kooperative Gesamtschule Schwanewede}{Schwanewede/Germany}{\textit{'2.8'}}{}
+%
+%\section{Lehrveranstaltungen (WWU Münster)}
+%\cvitemwithcomment{2011 SoSe}{Blockseminar}{Chronische Schmerzen im Kindes- und Jugendalter}
+%\cvitemwithcomment{2010 SoSe}{Praxisseminar}{Persönlichkeits- und Leistungsmessung}
+%\cvitemwithcomment{2009 WiSe}{Experimentelles Forschungspraktikum}{Embodied Cognition}
+%\cvitemwithcomment{2009 SoSe}{Experimentelles Forschungspraktikum}{Embodied Cognition}
+%\cvitemwithcomment{	2008 WiSe}{Basisseminar}{Allgemeine Psychologie I: Lernen und Gedächtnis}
+%\cvitemwithcomment{	2008 SoSe}{Basisseminar}{Allgemeine Psychologie I: Lernen und Gedächtnis}
+%\cvitemwithcomment{2007 WiSe}{Basisseminar}{Allgemeine Psychologie I: Denken und Problemlösen}
+%\cvitemwithcomment{2007 SoSe}{Basisseminar}{Allgemeine Psychologie I: Denken und Problemlösen}
+
+\newpage
+
+\section{Advanced Trainings}
+\cventry{12/2017}{Computable evolutionary phenotype knowledge: a hands-on workshop}{Phenoscape Knowledgebase}{Durham, North Carolina, USA}{4 days}{Connecting the database with IdigBio and developing a shiny app to display the distribution of species traits on a map}
+\cventry{10/2015}{Introduction to Bioinformatics for Biosystematics}{ForBio}{Oslo, Norway}{7 days}{Usage of Python, SQL and R for systematic research questions}
+\cventry{10/2014}{Species Tree Phylogenetics}{ForBio}{Kristineberg, Sweden}{5 days}{Species coalescent theories and assumptions; final report about paralogy assessment}
+\cventry{05/2014}{Computational Molecular Evolution}{EMBO}{Heraklion, Greece}{10 days}{Theories of dataset assembly, hypothesis testing in phylogenies and coalescent model}
+
+
+\section{Grants}
+\cventry{2016}{Research Fellowhip}{DFG - German Research Foundation}{Germany}{Applied for two year funding to work in USA; rejected}{}
+\cventry{2015}{'Förderung im Rahmen der Gleichstellung'}{Johannes Gutenberg-Universität}{Mainz/Germany}{Grant for workshop attendance: ForBio, Norway; 200\euro{}}{}
+\cventry{2013}{‘Förderung von aktiven Tagungsreisen im Rahmen des Speziellen Promotionskollegs’}{Johannes Gutenberg-Universität}{Mainz/Germany}{Grant for conference attendance, AETFAT, South Africa; 800\euro{}}{}
+
+
+
+
+
+%\newpage
+%\section{Mitgliedschaften}
+%\cvlistitem{Cognitive Neuroscience Society}
+%\cvlistitem{European Cognitive Science Society}
+%\cvlistitem{International Testing Commission}
+%
+%\section{Ad-hoc Reviewer}
+%\cvlistitem{International Journal of Psychophysiology}
+%\cvlistitem{Behavior Research Methods}
+%\cvlistitem{Language and Cognitive Processes}
+
+%\section{Languages}
+%\cvitem{German}{native}
+%\cvitem{English}{European language grade: C1/C2}
+%\cvitem{Spanish}{European language grade: A2}
+
+%
+%\section{IT}
+%\cvitem{Basic programming}{R and Python}
+%\cvitem{Office programs}{Adobe Illustrator, \LaTeX\ , LibreOffice, MS Office}
+%\cvitem{Operating systems}{various Linux- and Windows-distributions}
+%
+%
+%\section{Scientific Programs}
+%\cvitem{Alignment tools}{AWTY, Modeltest, PartitionFinder, SeqState}
+%\cvitem{Phylogenetic inference}{MrBayes, PAUP, RAxML}
+%\cvitem{Ancestral character reconstruction}{BayesTraits, Mesquite}
+%\cvitem{Biogeographic reconstruction}{BioGeoBears, Lagrange}
+%\cvitem{Molecular clock}{BEAST, RelTime}
+%\cvitem{Diversification rate}{BAMM, diversitree, MEDUSA}
+%\cvitem{Geographic information systems}{DIVA-GIS, QGIS}
+
+%
+%% Publications from a BibTeX file using the multibib package
+%%paper,submitted, chapter, conference
+%\section{Publication Record}
+%
+%\nocitepublications{*}
+%\bibliographystylepublications{plainyr_gh}
+%\bibliographypublications{publications}              % 'publications' is the name of a BibTeX file
+%
+%%\setcounter{enumiv}{0}
+%%
+%%\nocitesubmitted{*}
+%%\bibliographystylesubmitted{plainyr_gh}
+%%\bibliographysubmitted{submitted.bib}              % 'publications' is the name of a BibTeX file
+%
+%%\setcounter{enumiv}{0}
+%%\nocitechapters{*}
+%%\bibliographystylechapters{plainyr_gh}
+%%\bibliographychapters{chapters.bib}              % 'publications' is the name of a BibTeX file
+%
+%\setcounter{enumiv}{0}
+%\nocitetalks{*}
+%\bibliographystyletalks{plainyr_gh}
+%\bibliographytalks{talks}              % 'publications' is the name of a BibTeX file
+%\begin{minipage}[t]{.4\textwidth}
+%\end{minipage}\\[2em]
+
+
+
+\section{Voluntary Activities}
+\cventry{08/2016 -- 06/2017}{Cycling in South America}{}{}{Cycled ca. 8000 km, independently and self-supported}{Learning Spanish; https://blubbundbla.github.io/plantmap/}
+\cventry{05/2010 -- 12/2012}{Archive for African Music}{Johannes Gutenberg-Universität}{Mainz/Germany}{Volunteer; supervised by Dr. Hauke Dorsch}{Design and organization of exhibitions and music concert with other volunteers}
+\cventry{11/2008 -- 12/2008}{Nature Palace Foundation}{}{Luwule/Jandira, Uganda}{Internship with a NGO that maintains a botanic garden}{Conducting interviews with locals who use traditional plant medicines; Identification of plants}
+\cventry{07/2005 -- 11/2005}{BERUDEP}{}{Belo, Cameroon}{Internship with a NGO that runs different projects to eradicate poverty}{Organizing meetings and workshops as part of their conservation and agriculture projects}
+
+
+%Merced, \today
+\end{document}

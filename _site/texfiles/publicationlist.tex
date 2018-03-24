@@ -1,0 +1,68 @@
+
+\documentclass[11pt,letterpaper,sans]{moderncv}   % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                        % style options are 'casual' (default) and 'classic' 
+\moderncvcolor{black}                          % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+% character encoding
+\usepackage[utf8]{inputenc}
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+\setlength{\hintscolumnwidth}{1cm}           % if you want to change the width of the column with the dates
+
+
+\usepackage[ngerman]{babel}
+\usepackage[official]{eurosym}
+
+%\usepackage{apalike}
+
+% bibliography with mutiple entries
+\usepackage{multibib}
+\newcites{publications}{Peer-review Manuscripts}
+\newcites{talks}{Conference Contributions}
+%\usepackage{natbib}
+\usepackage{bibentry}
+\nobibliography*
+
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+% personal data
+\firstname{Martha}
+\familyname{Kandziora}
+\address{Postdoctoral Researcher in the McTavish Lab \\ Department of Life and Environmental Science \\ School of Natural Sciences \\
+University of California, Merced \\}{}   % optional, remove the line if not wanted                    % optional, remove the line if not wanted
+\email{martha.kandziora@mailbox.org}                          % optional, remove the line if not wanted
+%\homepage{www.vikp.de}                    % optional, remove the line if not wanted
+%\photo[64pt][0.4pt]{picture.jpg}                  % '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file; optional, remove the line if not wanted
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+
+% Publications from a BibTeX file using the multibib package
+%paper,submitted, chapter, conference
+\section{Publication Record}
+
+\nocitepublications{*}
+\bibliographystylepublications{plainyr_gh}
+\bibliographypublications{publications}              % 'publications' is the name of a BibTeX file
+
+\vline
+\setcounter{enumiv}{0}
+\nocitetalks{*}
+\bibliographystyletalks{plainyr_gh}
+\bibliographytalks{talks}              % 'publications' is the name of a BibTeX file
+
+\vspace*{+0.5cm}
+The following peer-review manuscripts were published from my doctoral dissertation work: [1],[2]
+
+%Merced, \today
+\end{document}
