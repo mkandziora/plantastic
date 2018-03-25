@@ -14,7 +14,7 @@ There are mainly two hypothesis, why the Cape Floristic Region (CFR) is a divers
 ### Evolution of *Senecio* and it's biogeographic history
 
 
-![]({{ base.url}}/images/transmarinus_small.JPG)
+![]({{ site.baseurl}}/images/transmarinus_small.JPG)
 *Senecio transmarinus a tropcial Afroalpine species*
 
 As PhD project, I studied the evolution of one of the largest plant genera, *Senecio* (Asteraceae). It belongs to the tribe Senecioneae and the evolutionary history of the tribe is still mostly unknown, due to several hybridization events, incomplete lineage sorting, the high amount of species and unknown synapomorphies. My research focused on the genus in the strict sense. The latest phylogenetic work ([Pelser et al. 2007](https://www.jstor.org/stable/25065905?seq=1#page_scan_tab_contents)) reconstructed the history of the tribe and included about 180 species of approximately 1000 *Senecio* species. I extended the sampling with an emphasis on African and Afroalpine species and used phylogenetic methods to understand the evolution of the genus, the historical biogeography as well as some macroecological patterns within the genus.
