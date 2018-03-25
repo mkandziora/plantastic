@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-... you can download a [publicationlist]({{ "./_includes/publicationlist.pdf" | absolute_url }}) directly.
+... you can download a [publicationlist]({{ "./includes/publicationlist.pdf" | absolute_url }}) directly.
 
 
 ### peer-review manuscripts
