@@ -33,20 +33,28 @@ markdown: kramdown
 navigation:
   - title: Home
     url: /index
+    xternal: 0
   - title: Research Interests
-    url: /research_interest    
+    url: /research_interest  
+    xternal: 0  
   - title: Projects
     url: /research
+    xternal: 0
   - title: Publications
-    url: /publications  
+    url: /publications
+    xternal: 0  
   - title: Plantmap
     url: https://blubbundbla.github.io/plantmap/
+    xternal: 1
 #  - title: Blog
 #    url: /blog
   - title: CV
     url: /cv
+    xternal: 0
   - title: About
-    url: /about    
+    url: /about  
+    xternal: 0
+  
 #  - title: Github
 #    url: https://github.com/blubbundbla         
 
