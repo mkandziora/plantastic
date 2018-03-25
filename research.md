@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Evolution of *Erica*
 
-![]({{ site.url}}/images/IMG_1666_small.JPG)
+![]({{ site.url}}/{{ base.url}}images/IMG_1666_small.JPG)
 *The Cape Floristic Region*
 
 There are mainly two hypothesis, why the Cape Floristic Region (CFR) is a diversity hotspot. Either it is a speciation hotspot or a region with reduced extinction.  Currently, I investigate the biogeographic history of the genus *Erica*, one of the largest monophyletic clades there (Pirie et al., in prep). We use climatic niche, phylogenetic reconstruction and biogeography to get more insights into its unknown history. Before, in parallel to my doctoral research, we could already show, that the diversity of *Erica* is due to increased speciation rate after dispersal from the Palaearctic, with an additional speciation rate shift within the large Cape clade (Pirie et al., 2016). This complies with the idea of the CFR being a speciation hot-bed. The speciation burst, might be related to the opening of niches and the relatively mild effects of the northern hemispheric Pliocene glacial cycles in the Cape. 
@@ -14,7 +14,7 @@ There are mainly two hypothesis, why the Cape Floristic Region (CFR) is a divers
 ### Evolution of *Senecio* and it's biogeographic history
 
 
-![]({{ site.url}}/images/transmarinus_small.JPG)
+![]({{ base.url}}/images/transmarinus_small.JPG)
 *Senecio transmarinus a tropcial Afroalpine species*
 
 As PhD project, I studied the evolution of one of the largest plant genera, *Senecio* (Asteraceae). It belongs to the tribe Senecioneae and the evolutionary history of the tribe is still mostly unknown, due to several hybridization events, incomplete lineage sorting, the high amount of species and unknown synapomorphies. My research focused on the genus in the strict sense. The latest phylogenetic work ([Pelser et al. 2007](https://www.jstor.org/stable/25065905?seq=1#page_scan_tab_contents)) reconstructed the history of the tribe and included about 180 species of approximately 1000 *Senecio* species. I extended the sampling with an emphasis on African and Afroalpine species and used phylogenetic methods to understand the evolution of the genus, the historical biogeography as well as some macroecological patterns within the genus.
