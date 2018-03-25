@@ -536,7 +536,7 @@ padding-top:1em
 }
 
 .header{
-background-image:url(../img/DSCF0431_small.JPG);background-size:cover;background-position:50%;
+background-image:url(../images/DSCF0431_small.JPG);background-size:cover;background-position:50%;
 transform: skewY(-3deg);
 transform-origin: top left;
 }
