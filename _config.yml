@@ -17,7 +17,7 @@ title: Plantastic
 email: martha.kandziora@yah...com
 description: >- # this means to ignore newlines until "baseurl:"
  Plantastic is a site about plant research in general and science I find particularly interesting.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/plantastic" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  blubbundbla
