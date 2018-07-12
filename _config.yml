@@ -32,7 +32,7 @@ markdown: kramdown
 
 navigation:
   - title: Home
-    url: /index
+    url: /home
     xternal: 0
   - title: Research Interests
     url: /research_interest  
