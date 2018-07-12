@@ -4,8 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-"Evolutionary botanist, who combines phylogenetic data with
-ecological information to understand how biodiversity is
-generated and maintained across space and time."
+"Evolutionary botanist, who uses programming skills to combine phylogenetic data with trait and 
+ecological information to understand how biodiversity is generated and maintained across space and time."
 
-Nothing makes sense than in the light of evolution...
+
