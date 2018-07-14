@@ -6,8 +6,7 @@ permalink: /research/
 
 ### Development of Tools
 
-During my postdoc I started programming in python to automatize data analyses steps for the collection of occurrence and bioclimatic data. Mainly I am programming a python tool to easily and automatic update phylogenies for a group of interest. It either retrieves all homologous sequences or the sequences can be filtered defined through user options.
-
+During my postdoc I started programming a python tool to easily and automatic update phylogenies for a group of interest. It either retrieves all homologous sequences or the sequences can be filtered defined through user options. Besides that I am writing scripts to automatize data analyses steps for the collection of occurrence and bioclimatic data.
 
 ### Evolution of *Erica*
 
