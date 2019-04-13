@@ -31,8 +31,11 @@ owner:
 markdown: kramdown
 
 navigation:
-  - title: Home
-    url: /home
+#  - title: Home
+#    url: /home  
+#    xternal: 0
+  - title: About
+    url: /about
     xternal: 0
   - title: Research Interests
     url: /research_interest  
@@ -51,9 +54,9 @@ navigation:
   - title: CV
     url: /cv
     xternal: 0
-  - title: About
-    url: /about  
-    xternal: 0
+#  - title: About
+#    url: /about  
+#    xternal: 0
   
 #  - title: Github
 #    url: https://github.com/blubbundbla         
