@@ -10,7 +10,7 @@ Currently, I develop a [python tool](https://github.com/McTavishLab/physcraper) 
 
 ### Evolution of *Erica*
 
-![]({{ site.baseurl}}/{{ base.url}}images/IMG_1666_small.JPG)
+![]({{ site.baseurl}}/{{ base.url}}images/IMG_20190327_144803-resize.jpg)
 *The Cape Floristic Region*
 
 There are mainly two hypothesis, why the Cape Floristic Region (CFR) is a diversity hotspot. Either it is a speciation hotspot or a region with reduced extinction.  We are investigating the biogeographic history of the genus *Erica*, one of the largest monophyletic clades in the CFR ([Pirie et al., 2018](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-016-0764-3)). We use climatic niche, phylogenetic and biogeography reconstructions to get more insights into its unknown history. Me and colleagues showed, that the diversity of *Erica* is due to increased speciation rate after dispersal from the Palaearctic, with an additional speciation rate shift within the large Cape clade (Pirie et al., 2016). This complies with the idea of the CFR being a speciation hot-bed. The best fitting biogreographic model is based on a combination of ecological similarity and physical distance. Contrary to this general rule, dispersal to regions which are more dissimilar and further away were important for the diversification of the genus ([Pirie et al, 2018](https://www.biorxiv.org/content/10.1101/290791v5)). The speciation burst might be related to the opening of niches and the relatively mild effects of the northern hemispheric Pliocene glacial cycles in the Cape. 
