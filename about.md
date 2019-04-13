@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an evolutionary botanist, who studies why species diversify. I use phylogenetic data and compaarative methods to understand how biodiversity is generated and maintained across space and time.  My name is Martha Kandziora and currently I am a postdoctoral researcher at UC Merced developing software tools to automatically update phylogenies, by heart I am a plant scientist.
+I am an evolutionary botanist, who studies why species diversify. I use phylogenetic data and comparative methods to understand how biodiversity is generated and maintained across space and time.  My name is Martha Kandziora and currently I am a postdoctoral researcher at UC Merced developing software tools to automatically update phylogenies, by heart I am a plant scientist.
 
 
 Please feel free to contact me at martha.kandziora@yah..com.
