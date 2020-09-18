@@ -4,9 +4,13 @@ title: Research Projects
 permalink: /research/
 ---
 
-### Development of programming tools and scripts for macroevolutionary research
+### Development of workflows and tools for macroevolutionary research
 
-Currently, I develop a [python tool](https://github.com/McTavishLab/physcraper) to easily and automatic update phylogenies for a group of interest. This allows to use up-to-date phylogenies for further comparative methods used to study the diversiciation of lineages and the relations to ecological niches, biogeography and traits.
+I develop tools and workflows to increase reproducibility in research. Phylogenetic relationships of species are important if we want to study the diversification of lineages and the relations to ecological niches, biogeography and traits. I developed a tool to [automatically update alignments based on custom sampling strategies](https://github.com/blubbundbla/PhylUp/tree/master). Colleagues and me also developed a [python tool](https://github.com/McTavishLab/physcraper) to easily and automatic update phylogenies using OpenTreeOfLife. Currently under development are workflows to analyze the climatic conditions of areas. 
+
+### Radiations in tropical alpine regions
+
+Past and current changes in the environment are influencing diversification. How diversification differs between two separate but similar environments is the focus of my current work. Together with colleagues, we focus on Asteraceae lineages across tropical alpine regions of South America and East Africa to understand how past climatic changes and mountain building processes drive diversification.
 
 ### Evolution of *Erica*
 
