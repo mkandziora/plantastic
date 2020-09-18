@@ -10,7 +10,7 @@ I develop tools and workflows to increase reproducibility in research. Phylogene
 
 ### Radiations in tropical alpine regions
 
-Past and current changes in the environment are influencing diversification. How diversification differs between two separate but similar environments is the focus of my current work. Together with colleagues, we focus on Asteraceae lineages across tropical alpine regions of South America and East Africa to understand how past climatic changes and mountain building processes drive diversification.
+Past and current changes in the environment are influencing diversification. How diversification differs between two separate but similar environments is the focus of my current work. Together with colleagues from Charles university, we focus on the evolution of Asteraceae lineages across tropical alpine regions of South America and East Africa to understand how past climatic changes and mountain building processes drive diversification. Together with colleagues from Norway, I am currently investigating the age of the East African Flora.
 
 ### Evolution of *Erica*
 
