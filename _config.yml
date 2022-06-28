@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/plantastic" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  blubbundbla
+github_username:  mkandziora
 
 owner:
   name:  Martha Kandziora
@@ -34,32 +34,36 @@ navigation:
 #  - title: Home
 #    url: /home  
 #    xternal: 0
-  - title: About
-    url: /about
-    xternal: 0
+ 
   - title: Research Interests
     url: /research_interest  
     xternal: 0  
   - title: Projects
     url: /research
     xternal: 0
+ 
+  - title: Plantmap
+    url: https://mkandziora.github.io/plantmap/
+    xternal: 1
+  - title: Blog
+    url: /blog
+  - title: Teaching
+    url: /teaching
   - title: Publications
     url: /publications
     xternal: 0  
-  - title: Plantmap
-    url: https://blubbundbla.github.io/plantmap/
-    xternal: 1
-#  - title: Blog
-#    url: /blog
-  - title: CV
-    url: /cv
+  # - title: About
+  #   url: /about
+  #   xternal: 0
+  # - title: CV
+  #   url: /cv
     xternal: 0
 #  - title: About
 #    url: /about  
 #    xternal: 0
   
 #  - title: Github
-#    url: https://github.com/blubbundbla         
+#    url: https://github.com/mkandziora         
 
 #remote_theme: brianmaierjr/long-haul
 #plugins:

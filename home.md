@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /home
 ---
 
 "Evolutionary botanist, who uses programming skills to combine phylogenetic data with trait and 

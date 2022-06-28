@@ -1,5 +1,0 @@
-[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
-[0] Config.pm:357> INFO - Logfile is 'talks.blg'
-[18] biber:303> INFO - === Do Mär 22, 2018, 17:41:47
-[93] Utils.pm:180> ERROR - Cannot find control file 'talks.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
-[94] Biber.pm:114> INFO - ERRORS: 1
