@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Evolution of dwarf-shrub habit in alpine-like environments"
 date:   2012-01-01
 categories: projects
