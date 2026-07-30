@@ -47,8 +47,8 @@ navigation:
     xternal: 1
   - title: Blog
     url: /blog
-  - title: Teaching
-    url: /teaching
+  #- title: Teaching
+  #  url: /teaching
   - title: Publications
     url: /publications
     xternal: 0  
